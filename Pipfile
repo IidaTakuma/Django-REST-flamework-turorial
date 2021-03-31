@@ -12,6 +12,7 @@ httpie = "*"
 django = "*"
 djangorestframework = "*"
 pygments = "*"
+django-rest-swagger = "*"
 
 [requires]
 python_version = "3.8"
